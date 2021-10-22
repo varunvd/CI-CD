@@ -2,4 +2,4 @@
 
 Automatic deployment for ease of developers.
 
-Connecting to CD
+Connecting to CD.
